@@ -1,3 +1,3 @@
 #pragma once
-#include "DirectedWeightedGraph.h"
+#include "Graph.h"
 #include "GraphColoring.h"

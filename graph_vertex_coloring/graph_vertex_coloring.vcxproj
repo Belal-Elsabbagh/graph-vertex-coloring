@@ -130,7 +130,7 @@
     <ClCompile Include="graph_vertex_coloring.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="DirectedWeightedGraph.h" />
+    <ClInclude Include="Graph.h" />
     <ClInclude Include="GraphColoring.h" />
     <ClInclude Include="main.h" />
   </ItemGroup>
